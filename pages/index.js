@@ -1,6 +1,8 @@
 import Head from "next/head";
 import React from 'react';
 import EditorSection from "../components/EditorComponents/EditorSection";
+import Footer from "../components/Footer";
+import Header from "../components/Header";
 
 const index = () => {
   return (
@@ -11,7 +13,9 @@ const index = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <Header />
       <EditorSection />
+      <Footer />
     </div>
   );
 };

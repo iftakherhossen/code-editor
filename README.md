@@ -2,7 +2,7 @@
 
 A simple Code Editor for writing code in HTML, CSS & JavaScript.
 
-## [Live Site](https://nextjs.org/)
+## [Live Site](https://code-editor-brown.vercel.app/)
 
 ### Technology
 - Next.js
