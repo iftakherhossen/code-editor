@@ -9,3 +9,4 @@ A simple Code Editor for writing code in HTML, CSS & JavaScript.
 - Tailwind CSS
 - Codemirror 
 - React Codemirror2
+- React-icons
